@@ -1,4 +1,4 @@
-# API Testing with Playwright
+# API Testing with Playwright and JavaScript
 
 ## Overview
 
